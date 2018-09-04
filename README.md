@@ -1,7 +1,7 @@
 # Object Oriented Programming Introduction in Python
 
 1.  **[Python_OOP.ipynb](https://github.com/nkuhta/OOP-Python/blob/master/Python_OOP.ipynb)**  
-&ensp;  *  Classes and Objects, Class and Instance Attributes, self parameter, init method.  
+&ensp;  ..*  Classes and Objects, Class and Instance Attributes, self parameter, init method.  
 &ensp;  * Abstraction and Encapsulation.  
 &ensp;  Inheritance:  Single, Multiple, Multi-level.  
 &ensp;  Polymorphism, overriding, super(), overloading, abstract base class (ABC)  
